@@ -20,60 +20,60 @@ function init() {
     var cero = document.getElementById("cero");
 // hopla
     // Eventos
-    uno.onclick = function(e) {
+    uno.onclick = e => {
         resultado.textContent = resultado.textContent + "1";
     }
-    dos.onclick = function(e) {
+    dos.onclick = e => {
         resultado.textContent = resultado.textContent + "2";
     }
-    tres.onclick = function(e) {
+    tres.onclick = e => {
         resultado.textContent = resultado.textContent + "3";
     }
-    cuatro.onclick = function(e) {
+    cuatro.onclick = e => {
         resultado.textContent = resultado.textContent + "4";
     }
-    cinco.onclick = function(e) {
+    cinco.onclick = e => {
         resultado.textContent = resultado.textContent + "5";
     }
-    seis.onclick = function(e) {
+    seis.onclick = e => {
         resultado.textContent = resultado.textContent + "6";
     }
-    siete.onclick = function(e) {
+    siete.onclick = e => {
         resultado.textContent = resultado.textContent + "7";
     }
-    ocho.onclick = function(e) {
+    ocho.onclick = e => {
         resultado.textContent = resultado.textContent + "8";
     }
-    nueve.onclick = function(e) {
+    nueve.onclick = e => {
         resultado.textContent = resultado.textContent + "9";
     }
-    cero.onclick = function(e) {
+    cero.onclick = e => {
         resultado.textContent = resultado.textContent + "0";
     }
-    reset.onclick = function(e) {
+    reset.onclick = e => {
         resetear();
     }
-    suma.onclick = function(e) {
+    suma.onclick = e => {
         operandoa = resultado.textContent;
         operacion = "+";
         limpiar();        
     }
-    resta.onclick = function(e) {
+    resta.onclick = e => {
         operandoa = resultado.textContent;
         operacion = "-";
         limpiar();        
     }
-    multiplicacion.onclick = function(e) {
+    multiplicacion.onclick = e => {
         operandoa = resultado.textContent;
         operacion = "*";
         limpiar();        
     }
-    division.onclick = function(e) {
+    division.onclick = e => {
         operandoa = resultado.textContent;
         operacion = "/";
         limpiar();        
     }
-    igual.onclick = function(e) {
+    igual.onclick = e => {
         operandob = resultado.textContent;
         resolver();
     }
