@@ -18,7 +18,7 @@ function init() {
     var ocho = document.getElementById("ocho");
     var nueve = document.getElementById("nueve");
     var cero = document.getElementById("cero");
-
+// hopla
     // Eventos
     uno.onclick = function(e) {
         resultado.textContent = resultado.textContent + "1";
