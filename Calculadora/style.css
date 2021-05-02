@@ -1,3 +1,7 @@
+
+.total {
+    padding-top: 200px;
+}
 .calculadora {
     display: block;
     margin: 0 auto;
@@ -6,10 +10,10 @@
     width: 300px;
     height: 500px;
     border-radius: 25px;
-    box-shadow: 15px /*pos L to R*/ 
-                10px /*pos top to bot*/ 
+    box-shadow: 0px /*pos L to R*/ 
+                0px /*pos top to bot*/ 
                 15px /*difuminado*/ 
-                10px /*contorno*/
+                15px /*contorno*/
                 black;
 }
 
@@ -20,7 +24,7 @@
     font-size: 25px;
 }
 body{
-    background-color: rgb(58, 4, 109);
+    background-image:   url(/back/1392578.jpg);
 }
 
 #resultado {
@@ -28,10 +32,10 @@ body{
     text-align: center;
     font-size: 40px;
     margin-bottom: 50px;
-    width: 270px;
+    width: 255px;
     height: 100px;
     line-height: 100px;
     background-color: whitesmoke;
     border-radius: 25px;
-    overflow-y: scroll;
+
 }
