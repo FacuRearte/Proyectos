@@ -14,7 +14,7 @@
                 0px /*pos top to bot*/ 
                 15px /*difuminado*/ 
                 15px /*contorno*/
-                black;
+                rgb(0, 0, 0);
 }
 
 .calculadora td button {
@@ -24,7 +24,7 @@
     font-size: 25px;
 }
 body{
-    background-image:   url(/back/1392578.jpg);
+    background-image: url(/back/w.jpg);
 }
 
 #resultado {
