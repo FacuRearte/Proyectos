@@ -14,7 +14,7 @@ El siguiente comando hará que la consola quede funcionando y se abrirá una pag
 
 ### Para apagar la página
 
-Para que la página deje de correr, usar las teclas Control + C en la consola. Esto cortará el proceso de hosting local.
+Para que la página deje de correr, usar las teclas `Control + C` en la consola. Esto cortará el proceso de hosting local.
 
 
 
