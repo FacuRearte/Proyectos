@@ -52,7 +52,7 @@ export default function Home() {
     return (
         <div className='all'>
             <Link to='/character'>Crear Personaje</Link>
-            <h1>AGUANTE BREAKING BAD</h1>
+            <h1>Breaking Bad APP</h1>
             <button onClick={(e) => {handleClick(e)}} >Volver a cargar todos los personajes</button>
             <div>
                 <select onChange={e => handleStatus(e)}>
