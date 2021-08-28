@@ -1,6 +1,8 @@
 # Mi Tienda.
 
-Este proyecto fue hecho para aprender a consumir una API y poder utilizar la información a gusto.
+Este proyecto fue hecho para aprender a consumir una API, obtener detalles de un elemento y poder manipular todos los demás datos a gusto.
+
+# Es un clone de un comercio digital, en el cual hay varios productos y uno puede obtener detalles del producto haciendo click en su recuadro.
 
 ## Información para poder probar el proyecto.
 
