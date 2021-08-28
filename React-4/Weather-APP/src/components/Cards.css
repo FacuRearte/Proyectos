@@ -1,0 +1,16 @@
+@media (min-width: 768px) {
+  .cards {
+      display: flex;
+      align-content: center;
+      justify-content: space-between;
+      margin: 2rem 2rem;
+      padding-bottom: 2rem;
+  }
+}
+
+.cards {
+  margin: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 3rem;
+  justify-content: space-between;
+}

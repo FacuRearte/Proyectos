@@ -1,0 +1,40 @@
+html {
+    font-size: 62.5%;
+    /**Reset para REMS**/
+    box-sizing: border-box;
+}
+h3{
+    font-size: 4rem;
+    color: #ffffff;
+}
+body {
+    background: url(../components/img/bkg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+.inputs {
+    background-color: rgb(83, 83, 83);
+    opacity: 0.8;
+    width: 300px;
+}
+.nav{
+    background: white;
+    border: 1px solid #393939;
+    border-radius: 15px;
+    width: 100px;
+    height: 35px;
+    color: #393939;
+    font-size: 12px;
+}
+.btn {
+    padding: 8px 7px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: background-color .3s ease;
+    color: black;
+    border-radius: 18px;
+}
+
