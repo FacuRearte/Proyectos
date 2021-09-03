@@ -1,3 +1,6 @@
+### `¿Que es esto y porqué lo hice?`
+Es un mini-proyecto para aprender el flujo de de Socket.io y hacer un chat con el mismo, utilizando HTML-CSS-JAVASCRIPT.
+
 ### `Guia de pasos`
 1. npm init --yes.
 2. npm i express .
