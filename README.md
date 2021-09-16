@@ -3,6 +3,10 @@
 Estos son casi todos mis proyectos que aportaron algo a mi etapa de aprendizaje inicial. La mayoría son de desarrollo Front-End.
 Aquí una breve descripción y proximamente serán deployeados cada uno de ellos.🌞🌈
 
+1. `Weather-APP`: Una APP para buscar todas las ciudades del mundo y saber su clima en tal solo segundos.
+
+![Sin título](https://user-images.githubusercontent.com/73850740/133541385-6746a025-2f99-4e9a-a212-48ccd1ac540e.png)
+
 1. `Calculadora`: Mi primer proyecto para entender como tomar datos y renderizarlos con el lenguaje `JavaScript` puro, también me sirvió para aprender la sintaxis del lenguaje anteriormente mencionado. 🦧
 
 [Para ver como quedó, mientras no está deployado](https://github.com/FacuRearte/Proyectos/tree/master/React-1/tateti/comoQuedoElProyecto)
