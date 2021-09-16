@@ -8,6 +8,7 @@ Aquí una breve descripción y proximamente serán deployeados cada uno de ellos
 ![Sin título](https://user-images.githubusercontent.com/73850740/133541385-6746a025-2f99-4e9a-a212-48ccd1ac540e.png)
 
 2. `Calculadora`: Mi primer proyecto para entender como tomar datos y renderizarlos con el lenguaje `JavaScript` puro, también me sirvió para aprender la sintaxis del lenguaje anteriormente mencionado. 🦧
+![Para ir al repo haz click aquí](https://github.com/FacuRearte/Proyectos/tree/master/Calculadora)
 
 ![Como quedó](https://user-images.githubusercontent.com/73850740/133543384-fe06d039-950b-44ca-95d6-db35aaee8ec5.png)
 
