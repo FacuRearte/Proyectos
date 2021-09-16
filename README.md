@@ -5,6 +5,8 @@ Aquí una breve descripción y proximamente serán deployeados cada uno de ellos
 
 1. `Calculadora`: Mi primer proyecto para entender como tomar datos y renderizarlos con el lenguaje `JavaScript` puro, también me sirvió para aprender la sintaxis del lenguaje anteriormente mencionado. 🦧
 
+[Para ver como quedó, mientras no está deployado](https://github.com/FacuRearte/Proyectos/tree/master/React-1/tateti/comoQuedoElProyecto)
+
 2. `Tateti`: Mi segundo proyecto, en el cual aprendí como mezcar `HTML` + `CSS` + `JAVASCRIPT` y aplicar la propiedad "hover" en `CSS` para hacer animaciones. 🤼‍♂️
 
 3. `Shop-Clothes`: Mi tercer proyecto, aprendí como usar Axios/Fetch para traer datos de una API, utilizandolos para mostrar cada elemento de la tienda ficticia y obteniendo detalles de cada uno si el usuario lo desea. 👨‍🔧
